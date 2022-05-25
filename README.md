@@ -28,16 +28,6 @@
 
 ![feedback](https://user-images.githubusercontent.com/105703992/168972418-2391d4bb-dfc3-4d9b-a6ff-34f815f16a12.png)
 
-### Contract Addresses : Polygon
-
-BulkMint: 0xd037aF2979AaB4B1bcef601337427C710e1cfF7f
-
-https://mumbai.polygonscan.com/address/0xd037aF2979AaB4B1bcef601337427C710e1cfF7f
-
-MultiSend: 0x5158542F000f3D50aA3Ef90E04beB41C80b8D862
-
-https://mumbai.polygonscan.com/address/0x5158542F000f3D50aA3Ef90E04beB41C80b8D862
-
 ### How its made:
 
 - Role based Membership: By this functionality Admin can create NFT(ERC721 Token) and mint membership tokens based on user's role like Admin, Data manager, Support team etc and assign the role to respective member of the DAO.
